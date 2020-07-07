@@ -1,2 +1,3 @@
-# wr2_react-5_routing_review
-Created with CodeSandbox
+# React Routing Review
+
+Review of routing in React using react-router-dom's HashRouter
